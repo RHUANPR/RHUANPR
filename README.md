@@ -38,13 +38,10 @@
 
 ###
 
-<div align="center">
-  <img height="218" src="https://images.ecycle.com.br/wp-content/uploads/2021/05/20195924/o-que-e-paisagem.jpg"  />
-</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/RHUANPR/RHUANPR/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

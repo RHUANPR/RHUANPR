@@ -32,8 +32,7 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RHUANPR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="166" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RHUANPR&locale=en&hide_title=false&layout=default &card_width=320&langs_count=2&theme=dracula&hide_border=false&order=2" height="156" alt="languages graph"  />
+  
 </div>
 
 ###

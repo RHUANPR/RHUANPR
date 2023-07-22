@@ -22,6 +22,7 @@
 
 
 ###
+<img align="right" height="200" src="https://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=11FF00&data=curioso&qzone=1&margin=0&size=200x200&ecc=L">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
